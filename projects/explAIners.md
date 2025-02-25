@@ -1,5 +1,5 @@
-# Title 
-## Team Name
+# Feedback Buddy 
+## ExplAIners
 ## Project Members: 
 ## Project Brief:  
 
